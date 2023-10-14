@@ -1,3 +1,3 @@
 # releases
 
-releases for koe
+releases for koe, you can also ask questions / report bug / request features here.
